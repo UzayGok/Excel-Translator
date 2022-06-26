@@ -8,5 +8,4 @@ Secondly, enter the column(s) you wish to translate
 Finally, enter the lines you wish to translate.
 
 Do not interrupt the browser window. At best, do not even open it. 
-If you do not follow these guidelines, you will get weird exceptions and the frustration of 
-having wasted your time.
+If you do not follow these guidelines, you will get weird exceptions.
